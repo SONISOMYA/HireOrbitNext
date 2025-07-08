@@ -1,0 +1,17 @@
+frontend/node_modules/
+frontend/.next/
+frontend/.env.local
+# Python
+backend/venv/
+backend/__pycache__/
+backend/.env
+
+# Common
+*.pyc
+*.pyo
+.DS_Store
+*.log
+
+# Editor configs
+.vscode/
+.idea/
